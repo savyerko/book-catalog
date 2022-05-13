@@ -1,0 +1,21 @@
+.card-year li {
+	list-style: none;
+	display: block;
+	margin-bottom: 15px;
+}
+
+.card-year li:last-child {
+	margin-bottom: 0;
+}
+
+.card-year ul {
+	padding: 0;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	margin: 0;
+}
+
+.border-primary {
+	margin-top: 40px;
+}

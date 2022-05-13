@@ -1,0 +1,16 @@
+.add-book-block .form-group {
+	width: 100%;
+	margin-top: -24px;
+}
+
+.add-book-block .form-year, .add-book-block .form-rate {
+	width: 48%;
+}
+
+.add-book-block h4 {
+	margin-bottom: -2px;
+}
+
+#formFile {
+	margin-bottom: 5px;
+}

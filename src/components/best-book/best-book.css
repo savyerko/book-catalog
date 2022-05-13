@@ -1,0 +1,31 @@
+.bg-light .card-header {
+	text-align: center;
+	font-size: 25px;
+}
+
+.bg-light {
+	width: 285px;
+	margin: 0 auto;
+}
+
+.bg-light .card-image {
+	width: 220px;
+	height: 300px;
+	margin-bottom: 15px
+}
+
+.bg-light p {
+	margin-bottom: 0;
+	font-size: 20px;
+}
+
+.bg-light h4, .bg-light h6 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.bg-light .card-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
